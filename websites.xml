@@ -1,8 +1,14 @@
 <websites>
     <url>
+        <des>General basics and css html and js</des>
         "https://developer.mozilla.org/ru/docs/Learn"
     </url>
     <url>
+        <des>All about js</des>
         "https://learn.javascript.ru/"
+    </url>
+    <url>
+        <des>Very profound xml information</des>
+        "https://bit.ly/2PDL3Sn"
     </url>
 </websites>
